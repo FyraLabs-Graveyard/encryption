@@ -6,7 +6,7 @@ Notably, the amount of PBKDF2 iterations used for deriving a key from a user's p
 
 If you have any questions, please contact a staff member on Discord.
 
-- L
+-L
 
 # Installation
 
